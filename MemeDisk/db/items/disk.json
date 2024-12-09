@@ -1,0 +1,9 @@
+{
+  "Damage": 65,
+  "AmmoRec": -2,
+  "PenetrationPower": 33,
+  "InitialSpeed": 225,
+  "ArmorDamage": 25,
+  "RicochetChance": 0.1,
+  "PenetrationChanceObstacle": 0.05
+}
